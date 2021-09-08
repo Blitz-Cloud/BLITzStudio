@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BLITzStudio
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning html and styling
+- 🌱 I’m currently learning html.css and JavaScript
 - 📫 You can reach me on ionutp626@gmail.com
 
 <!---
