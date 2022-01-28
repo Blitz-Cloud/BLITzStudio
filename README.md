@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BLITzStudio
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning html.css and JavaScript
+- 🌱 I’m currently learning Electron and MongoDB
 - 📫 You can reach me on  
 
 <!---
